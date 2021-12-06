@@ -1,0 +1,33 @@
+INSERT INTO cpns_kategori_soal(kategori_soal_jenis, kategori_soal_key, kategori_soal_nama)
+ VALUES 
+ ('TWK', 'TWK001', 'Pancasila'),
+ ('TWK', 'TWK002', 'UUD 1945'),
+ ('TWK', 'TWK003', 'Bhineka Tunggal Ika'),
+ ('TWK', 'TWK004', 'Negara Kesatuan Republik Indonesia'),
+ ('TWK', 'TWK005', 'Bahasa Indonesia'),
+ ('TWK', 'TWK006', 'Tata negara'),
+ ('TWK', 'TWK007', 'Demokrasi Indonesia'),
+ ('TWK', 'TWK008', 'Sejarah Penting'),
+
+ ('TIU', 'TIU001', 'Kemampuan Verbal'),
+ ('TIU', 'TIU002', 'Aritmatika'),
+ ('TIU', 'TIU003', 'Perbandingan'),
+ ('TIU', 'TIU004', 'Persamaan dan Pertidaksamaan Statistika'),
+ ('TIU', 'TIU005', 'Jarak, Waktu, dan Kecepatan'),
+ ('TIU', 'TIU006', 'Himpunan'),
+ ('TIU', 'TIU007', 'Barisan dan Deret'),
+ ('TIU', 'TIU008', 'Kemampuan Logika'),
+
+ ('TKP', 'TKP001', 'Integritas Diri'),
+ ('TKP', 'TKP002', 'Semangat Berprestasi'),
+ ('TKP', 'TKP003', 'Orientasi Pada Pelayanan'),
+ ('TKP', 'TKP004', 'Kemampuan Beradaptasi'),
+ ('TKP', 'TKP005', 'Kemampuan Mengendalikan Diri'),
+ ('TKP', 'TKP006', 'Kemampuan Bekerja Mandiri dan Tuntas'),
+ ('TKP', 'TKP007', 'Kemauan dan Kemampuan Belajar Berkelanjutan'),
+ ('TKP', 'TKP008', 'Kemampuan Bekerja Sama dalam Kelompok'),
+ ('TKP', 'TKP009', 'Kemampuan Mengkoordinir Orang Lain'),
+ ('TKP', 'TKP010', 'Orientasi Kepada Orang Lain'),
+ ('TKP', 'TKP011', 'Kreativitas dan Inovasi'),
+ ('TKP', 'TKP012', 'Kemampuan Berpikir Analitis'),
+ ('TKP', 'TKP013', 'Kemampuan Berpikir Logis');
